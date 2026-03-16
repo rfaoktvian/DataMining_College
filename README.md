@@ -63,6 +63,6 @@ https://drive.google.com/file/d/1tSojHPIgi-w_BlHuL_JXPqqMnSoHcIf3/view?usp=drive
 ---
 
 ## 👤 Author
-- **Nama:** [Nazly Rafa Oktafian Nuzqu]
-- **NIM:** [2311103078]
+- **Nama:** Nazly Rafa Oktafian Nuzqu
+- **NIM:** 2311103078
 - **Mata Kuliah:** Data Mining

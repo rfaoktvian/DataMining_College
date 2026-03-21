@@ -60,9 +60,13 @@ Project ini merupakan implementasi Data Mining untuk memprediksi status pembelia
 Link video demo preprocessing dan hasil pemodelan:
 https://drive.google.com/file/d/1tSojHPIgi-w_BlHuL_JXPqqMnSoHcIf3/view?usp=drive_link 
 
+
+
+jjj
 ---
 
 ## 👤 Author
-- **Nama:** [Nazly Rafa Oktafian Nuzqu]
-- **NIM:** [2311103078]
+- **Nama:** Nazly Rafa Oktafian Nuzqu
+- **NIM:** 2311103078
 - **Mata Kuliah:** Data Mining
+- **Kelas:**S1SI-REG02

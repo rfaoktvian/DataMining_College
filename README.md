@@ -68,3 +68,7 @@ https://drive.google.com/file/d/1tSojHPIgi-w_BlHuL_JXPqqMnSoHcIf3/view?usp=drive
 - **Mata Kuliah:** Data Mining
 - **Kelas:** S1SI-REG02
 
+
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhkkkkkkkkkkkk
+
+
